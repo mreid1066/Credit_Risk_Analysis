@@ -1,5 +1,6 @@
 # Analysis of Credit Risk
-## After demonstrating our knowledge of data preperation, statistical rasoning and machine learning, we were tasked with creating algorithms to assess credit risk. Because credit risk is an inherently unbalanced classification problem, we needed to use different tequniques and several models to train and and evaluate the dataset. We were asked to use two over-sampling models, an under-sampling model and a combinatorial appoarch. We also used two ensemble machine learning approaches to minimize bias.
+## Overview
+After demonstrating our knowledge of data preperation, statistical rasoning and machine learning, we were tasked with creating algorithms to assess credit risk. Because credit risk is an inherently unbalanced classification problem, we needed to use different tequniques and several models to train and and evaluate the dataset. We were asked to use two over-sampling models, an under-sampling model and a combinatorial appoarch. We also used two ensemble machine learning approaches to minimize bias.
 
 ## Results
 
